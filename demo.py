@@ -1,2 +1,3 @@
 x = ("First Push")
-print(x)
+y = ("Second push")
+print(x,y)
